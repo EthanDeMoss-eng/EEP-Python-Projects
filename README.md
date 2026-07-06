@@ -14,13 +14,13 @@ This calculator covers 9 engineering and math categories with 30+ calculation fu
 ## How to Run
 
 ```bash
-python Python_Project_1.py
+python Engineering_Calculator.py
 ```
 
 Or on some systems:
 
 ```bash
-python3 Python_Project_1.py
+python3 Engineering_Calculator.py
 ```
 
 ## Categories
